@@ -9,6 +9,5 @@ const Tab33: React.FC = () => {
      </IonPage>
     );
   };
-  
-  export default Tab33;
+export default Tab33;
   
