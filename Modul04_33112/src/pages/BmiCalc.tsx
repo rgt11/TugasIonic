@@ -100,7 +100,6 @@ const BmiCalc: React.FC = () => {
               </IonItem>
             </IonCol>
           </IonRow>
-
           <IonRow>
             <IonCol>
               <IonItem>

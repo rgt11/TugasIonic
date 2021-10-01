@@ -1,0 +1,24 @@
+ion-toolbar {
+    --background: transparent;
+    --ion-color-base: transparent !important;
+    }
+.text1{
+    text-align:center;
+}
+.cardfront{
+    background-color:rgb(63, 58, 58);
+    padding:10px;
+}
+.button2 {
+    margin: 50px auto auto;
+    display: block;
+    width:25%;
+}
+.card {
+    --background: url(../assets/umf.jpg);
+    height:100%;
+}
+.corner{
+    margin-top: 60%;
+    margin-left: 10px;
+}

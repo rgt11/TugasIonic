@@ -1,0 +1,7 @@
+{
+  "name": "Tripadvisor",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

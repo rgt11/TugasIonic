@@ -1,0 +1,13 @@
+ion-toolbar {
+    --background: transparent;
+    --ion-color-base: transparent !important;
+    }
+.imagecard {
+    --background: url(../assets/umf.jpg);
+    height:40%;
+}
+.buttoncenter {
+    margin: 50px auto auto;
+    display: block;
+    width:15%;
+}

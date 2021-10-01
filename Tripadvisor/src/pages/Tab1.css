@@ -1,0 +1,14 @@
+ion-item {
+    --background: transparent;
+    --ion-color-base: transparent !important;
+    }
+.avatar{
+    size:40%;
+    float:inline-end;
+}
+.leftcorner{
+    margin: 80px auto;
+    text-align:left;
+    margin-left: 10px;
+    padding:60px;
+}
